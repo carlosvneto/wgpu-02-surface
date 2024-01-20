@@ -8,3 +8,5 @@ https://sotrh.github.io/learn-wgpu/beginner/tutorial2-surface/
 
 * Compile and run program:
 * cargo run
+
+![alt text](https://github.com/carlosvneto/wgpu-02-surface/blob/main/images/screen.png?raw=true)
